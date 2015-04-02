@@ -1,0 +1,16 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Craft-Twig",
+		"Emmet",
+		"Package Control",
+		"PackageResourceViewer",
+		"SCSS",
+		"Seti_UI",
+		"Theme - itg.flat",
+		"Theme - Spacegray"
+	]
+}
